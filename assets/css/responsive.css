@@ -46,6 +46,7 @@
 @media screen and (max-width:1024px){
 	.asociatedlogo{
 		width: 50px;
+	
 	}
 
 
@@ -58,6 +59,7 @@
 @media screen and (max-width:992px){
 	.asociatedlogo{
 		width: 80px;
+			margin-left:50px;
 	}
 
 }/*max-width:992px*/
