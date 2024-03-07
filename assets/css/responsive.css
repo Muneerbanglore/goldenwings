@@ -67,6 +67,9 @@
 
 
 @media screen and (max-width:991px){
+	#maps{
+		display:none;
+	}
 	.map{
 		width: 150px;
 		
